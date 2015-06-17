@@ -1,7 +1,7 @@
 # interfacelift_downloader
 interfacelift网站的壁纸抓取
 
-# 为什么要写这个 ? 
+# 出发点
 
 >没错 , 我换高清屏了.终于脱离了1366x768
 
