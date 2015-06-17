@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 17 12:34:38 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=getWallpaper_fat.jar
+manifest.mergeall=true
+manifest.mainclass=me.getwallpaper.main.Interfacelift_Downloader
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
