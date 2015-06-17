@@ -1,6 +1,10 @@
 # interfacelift_downloader
 interfacelift网站的壁纸抓取
 
+# 为什么要写这个 ? 
+
+>没错 , 我换高清屏了.终于脱离了1366x768
+
 ##简介
 
 >使用java写的interfacelift网站壁纸抓取工具
